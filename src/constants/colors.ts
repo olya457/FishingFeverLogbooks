@@ -1,0 +1,16 @@
+export const Colors = {
+  primary: '#FF8C00',
+  primaryDark: '#CC6600',
+  ocean: '#1E90FF',
+  oceanDark: '#0A5F9E',
+  wood: '#8B4513',
+  woodLight: '#D2691E',
+  green: '#4CAF50',
+  red: '#F44336',
+  white: '#FFFFFF',
+  black: '#000000',
+  text: '#1A1A1A',
+  textLight: '#FFFFFF',
+  cardBg: 'rgba(255,255,255,0.9)',
+  overlay: 'rgba(0,0,0,0.4)',
+};
